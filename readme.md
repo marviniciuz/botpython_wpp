@@ -1,4 +1,4 @@
-# Bot simples de envio de mensagens no Watsapp
+# automatização simples de envio de mensagens no Watsapp
 
 ## requisitos:
 
